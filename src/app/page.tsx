@@ -129,7 +129,9 @@ export default function Home() {
 
       {/*全体の流れ*/}
       <div className="w-full max-w-[800px] text-center mt-5 px-4">
-        <h2 className="text-xl sm:text-3xl font-bold mb-10 text-center">全体の流れ</h2>
+        <h2 className="text-xl sm:text-3xl font-bold mb-10 text-center">
+          全体の流れ
+        </h2>
         <div className="grid grid-cols-3 gap-4 mb-4">
           <p className="text-base sm:text-lg text-gray-700">
             1月13日（火） ～<br></br> 28日（水）
@@ -156,11 +158,14 @@ export default function Home() {
             <h2 className="text-xl sm:text-3xl font-bold mb-5 text-center text-white">
               事前説明会（オンライン開催）　1月29日（木）
             </h2>
+            <p className="text-sm sm:text-sm font-bold text-white mb-10">
+              ※終了時間に関して前後する可能性がございます
+            </p>
             <div className="border-2 border-black bg-white overflow-hidden">
               <div className="divide-y-2 divide-black">
                 <div className="flex items-center">
                   <div className="w-1/3 py-4 px-2 font-semibold text-center border-r-2 border-black bg-white">
-                    17:30 ~ 17:40
+                    17:00 ~ 17:10
                   </div>
                   <div className="w-2/3 py-4 px-2 text-center bg-white flex items-center justify-center">
                     概要説明
@@ -168,7 +173,7 @@ export default function Home() {
                 </div>
                 <div className="flex items-center">
                   <div className="w-1/3 py-4 px-2 font-semibold text-center border-r-2 border-black bg-white">
-                    17:40 ~ 17:50
+                    17:10 ~ 17:20
                   </div>
                   <div className="w-2/3 py-4 px-2 text-center bg-white flex items-center justify-center">
                     当日の説明
@@ -176,7 +181,7 @@ export default function Home() {
                 </div>
                 <div className="flex items-center">
                   <div className="w-1/3 py-4 px-2 font-semibold text-center border-r-2 border-black bg-white">
-                    17:50 ~ 18:20
+                    17:20 ~ 17:30
                   </div>
                   <div className="w-2/3 py-4 px-2 text-center bg-white flex items-center justify-center">
                     DMM様による講演（会社説明）
@@ -184,7 +189,7 @@ export default function Home() {
                 </div>
                 <div className="flex items-stretch">
                   <div className="w-1/3 py-4 px-2 font-semibold text-center border-r-2 border-black bg-red-100">
-                    18:20 ~ 19:10
+                    17:30 ~ 18:00
                   </div>
                   <div className="w-2/3 py-4 px-2 text-red-600 font-semibold text-center bg-red-100 flex items-stretch justify-center">
                     オンライン座談会
@@ -192,7 +197,7 @@ export default function Home() {
                 </div>
                 <div className="flex items-center">
                   <div className="w-1/3 py-4 px-2 font-semibold text-center border-r-2 border-black bg-white">
-                    19:10
+                    18:00
                   </div>
                   <div className="w-2/3 py-4 px-2 text-center bg-white flex items-center justify-center">
                     閉会
