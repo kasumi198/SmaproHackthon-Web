@@ -179,7 +179,7 @@ export default function Home() {
                     17:50 ~ 18:20
                   </div>
                   <div className="w-2/3 py-4 px-2 text-center bg-white flex items-center justify-center">
-                    DMM様による講演
+                    DMM様による講演（会社説明）
                   </div>
                 </div>
                 <div className="flex items-stretch">
