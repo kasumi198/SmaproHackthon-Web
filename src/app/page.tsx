@@ -416,7 +416,7 @@ export default function Home() {
           <div className="pb-8 border-b border-dashed border-gray-500">
             <h3 className="text-xl font-semibold mb-2">開催日</h3>
             <p className="text-gray-600 font-semibold">
-              　2025年2月5日(木)〜2月6日(金)
+              　2026年2月5日(木)〜2月6日(金)
             </p>
           </div>
           <div className="pb-8 border-b border-dashed border-gray-500">
@@ -454,7 +454,7 @@ export default function Home() {
           <div className="pb-8 border-b border-dashed border-gray-500">
             <h3 className="text-xl font-semibold mb-2">　事前説明会</h3>
             <p className="text-gray-600 font-semibold">
-              　日時：1月29日(水)17:30~19:10<br></br>
+              　日時：1月29日(水)17:00~18:00<br></br>
               　場所：オンライン（Zoom）
             </p>
             <p className="text-gray-600 mt-4 text-sm">
@@ -579,7 +579,7 @@ export default function Home() {
           </div>
           <div className="md:ml-8 flex-1">
             <p className="text-lg text-gray-700 mt-4">
-              スマプロは金沢工業大学の学生によるアプリ開発プロジェクトです。
+              スマートフォンアプリプロジェクトは金沢工業大学の学生によるアプリ開発プロジェクトです。
               <br />
               学生同士で協力し、様々なアプリやサービスを企画・開発しています。
             </p>
