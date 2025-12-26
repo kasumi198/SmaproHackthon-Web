@@ -27,7 +27,7 @@ export default function Home() {
             2月5日～2月6日
           </p>
           <p className="text-sm sm:text-lg mb-2 sm:mb-8">
-            申込期間2026年1月7日（火）12:30～1月28日（水）（定員に達し次第
+            申込期間2026年1月7日（水）12:30～1月28日（水）（定員に達し次第
             受付締切）
           </p>
           <a
@@ -134,7 +134,7 @@ export default function Home() {
         </h2>
         <div className="grid grid-cols-3 gap-4 mb-4">
           <p className="text-base sm:text-lg text-gray-700">
-            1月7日（火） ～<br></br> 28日（水）
+            1月7日（水） ～<br></br> 28日（水）
           </p>
           <p className="text-base sm:text-lg text-gray-700">1月29日（木）</p>
           <p className="text-base sm:text-lg text-gray-700">
