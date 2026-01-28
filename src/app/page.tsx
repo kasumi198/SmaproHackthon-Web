@@ -32,11 +32,14 @@ export default function Home() {
           </p>
           <a
             href="https://docs.google.com/forms/d/e/1FAIpQLScTdqFgMcFrQyOmedgSpNIT85sklDLGI9pOnEQ0bH3EB1qiqg/viewform?usp=dialog"
-            className="inline-block bg-red-500 hover:bg-slate-200 text-white font-bold py-1 sm:py-4 px-4 sm:px-9 rounded-full text-base sm:text-lg transition-colors"
+            className="inline-block bg-gray-500 text-white font-bold py-1 sm:py-4 px-4 sm:px-9 rounded-full text-sm sm:text-sm transition-colors"
             target="_blank"
             rel="noopener noreferrer"
+            tabIndex={-1}
+            aria-disabled="true"
+            onClick={(e) => e.preventDefault()}
           >
-            応募はこちら
+            募集定員に達しました
           </a>
         </div>
       </div>
