@@ -280,19 +280,19 @@ export default function Home() {
                       開発時間
                     </div>
                   </div>
-                  {/* 12:30~ 昼食 */}
+                  {/* 12:00~ 昼食 */}
                   <div className="flex items-stretch">
                     <div className="w-1/3 px-2 sm:px-6 py-2 sm:py-4 font-semibold text-center border-r-2 border-black bg-white text-sm sm:text-base">
-                      12:30~
+                      12:00~
                     </div>
                     <div className="w-2/3 px-2 sm:px-6 py-2 sm:py-4 text-center bg-white text-sm sm:text-base">
                       昼食
                     </div>
                   </div>
-                  {/* 13:30~ 開発時間 */}
+                  {/* 13:00~ 開発時間 */}
                   <div className="flex items-stretch">
                     <div className="w-1/3 px-2 sm:px-6 py-2 sm:py-4 font-semibold text-center border-r-2 border-black bg-red-200 text-sm sm:text-base">
-                      13:30~
+                      13:00~
                     </div>
                     <div className="w-2/3 px-2 sm:px-6 py-2 sm:py-4 font-semibold text-center bg-red-200 text-sm sm:text-base">
                       開発時間
@@ -335,13 +335,13 @@ export default function Home() {
                       受付開始
                     </div>
                   </div>
-                  {/* 10:00~ 開会・事務局案内 */}
+                  {/* 10:00~ 開会*/}
                   <div className="flex items-center">
                     <div className="w-1/3 px-2 sm:px-6 py-2 sm:py-4 font-semibold text-center border-r-2 border-black bg-white text-sm sm:text-base">
                       10:00~
                     </div>
                     <div className="w-2/3 px-2 sm:px-6 py-2 sm:py-4 text-center bg-white text-sm sm:text-base">
-                      開会・事務局案内
+                      開会
                     </div>
                   </div>
                   {/* 10:10~ 開発時間 */}
@@ -353,10 +353,10 @@ export default function Home() {
                       開発時間
                     </div>
                   </div>
-                  {/* 12:30~ 昼食 */}
+                  {/* 12:00~ 昼食 */}
                   <div className="flex items-center">
                     <div className="w-1/3 px-2 sm:px-6 py-2 sm:py-4 font-semibold text-center border-r-2 border-black bg-white text-sm sm:text-base">
-                      12:30~
+                      12:00~
                     </div>
                     <div className="w-2/3 px-2 sm:px-6 py-2 sm:py-4 text-center bg-white text-sm sm:text-base">
                       昼食
@@ -380,10 +380,10 @@ export default function Home() {
                       発表
                     </div>
                   </div>
-                  {/* 16:20 情報交流会・審査結果*/}
+                  {/* 16:30 情報交流会・審査結果*/}
                   <div className="flex items-stretch">
                     <div className="w-1/3 px-2 sm:px-6 py-2 sm:py-4 font-semibold text-center border-r-2 border-black bg-white text-sm sm:text-base">
-                      <b></b> <br></br>16:20~
+                      <b></b> <br></br>16:30~
                     </div>
                     <div className="w-2/3 px-2 sm:px-6 py-2 sm:py-4 text-center bg-white text-sm sm:text-base">
                       情報交流会<br></br>
@@ -391,13 +391,13 @@ export default function Home() {
                       フィードバック
                     </div>
                   </div>
-                  {/* 19:00 閉会・解散 */}
+                  {/* 19:00 解散 */}
                   <div className="flex items-center">
                     <div className="w-1/3 px-2 sm:px-6 py-2 sm:py-4 font-semibold text-center border-r-2 border-black bg-white text-sm sm:text-base">
                       19:00
                     </div>
                     <div className="w-2/3 px-2 sm:px-6 py-2 sm:py-4 text-center bg-white text-sm sm:text-base">
-                      閉会・解散
+                      解散
                     </div>
                   </div>
                 </div>
